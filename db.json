@@ -1,19 +1,84 @@
 {
   "users": [
     {
-      "id": "1",
+      "id": 1,
       "username": "ABC",
       "email": "abc@gmail.com",
-      "mobile": "1234567891",
-      "address": {
-        "city": "Chennai",
-        "state": "TamilNadu",
-        "country": "India"
-      },
+      "mobile": 1234567891,
+      "city": "Chennai",
+       "state": "TamilNadu",
+       "country": "India",
       "gender": "Male",
       "profile": "https://media.istockphoto.com/id/1300845620/vector/user-icon-flat-isolated-on-white-background-user-symbol-vector-illustration.jpg?s=612x612&w=0&k=20&c=yBeyba0hUkh14_jgv1OKqIH0CCSWU_4ckRkAoy2p73o=",
       "posts": []
-    }
+    },
+    {
+    "username": "Aviya",
+    "email": "Aviya@example.com",
+    "mobile": 8788824031,
+    "city": "Chennai", 
+    "state": "TamilNadu",
+     "country": "India",
+    "gender": "Male",
+    "profile":
+      "https://media.istockphoto.com/id/1300845620/vector/user-icon-flat-isolated-on-white-background-user-symbol-vector-illustration.jpg?s=612x612&w=0&k=20&c=yBeyba0hUkh14_jgv1OKqIH0CCSWU_4ckRkAoy2p73o=",
+    "posts": [
+      {
+        "id": 1,
+        "caption":"Tips for selecting soil and location for flower farming: \n\n Selection of site: The location of your flowerbed should be of the front view of your garden & not hidden somewhere in the background. Choose the sunniest spot in your garden as seasonal flowers do best in full sun. Flower beds look good when placed beside or in-between lawn. \n\n Soil: In general, flowering annuals thrive best in deep, well-drained & well-cultivated soil which is not acidic in nature. The beds should be worked up thoroughly to a depth of 30 cm before plantation when soil is not wet. \n\n Annuals & flowering season: In India, the flowering annual plants are classified according to the season when they are grown. Viz. Winter annuals, summer annuals, & rainy season annuals. Choose your flowerbed plants accordingly.",
+        "image": "https://cdn.shopify.com/s/files/1/0579/7924/0580/t/18/assets/shutterstock_210065338.jpgv1661860827?v=1661860895",
+        "likes": 10,
+        "comments": [
+          {
+            "id": 101,
+            "username": "user456",
+            "text": "Great post!"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "caption":
+          "Marigold is one of the most popular, annual, free flowering and short duration flowering crops. These flowers are known for their vibrant orange and yellow blooms, which add a cheerful touch to gardens and landscapes. Marigolds are native to Mexico and Central America but are now grown worldwide. In India, major marigold growing states are Tamil Nadu, Karnataka, Andhra Pradesh, Karnataka, Madhya Pradesh and Maharashtra. They are widely grown for their use in various religious and cultural ceremonies. In addition to their ornamental value, marigolds are also known for their medicinal and culinary uses. Commonly cultivated marigold species are African marigold (Tall) and French marigold (Dwarf). Marigold cultivation is an important source of income for many farmers in India.",
+        "image": 
+          "https://www.planetayurveda.com/pa-wp-images/marigold.jpg",
+        "likes": 15,
+        "comments": [
+          {
+            "id": 201,
+            "username": "user789",
+            "text": "Awesome!"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "caption":"Rose crop loves to grow on well drained, fertile loamy soil that have good moisture holding capacity. Agriculturist have reported that rose grow better in soils having pH range of 6 to 6.5.Soil with pH level more than 7.5 is not suitable for farming of rose. As rose crop will be unable to uptake phosphorus, manganese, and iron in soil with higher pH than 7.5.",
+        "image": "https://media.licdn.com/dms/image/C5112AQGfzKh5BQbs0w/article-cover_image-shrink_720_1280/0/1568624652329?e=2147483647&v=beta&t=qvuo93m2ksmS-mAwCnUtl47U-CERoEDB3HVXRdCVvTg",
+        "likes": 10,
+        "comments": [
+          {
+            "id": 101,
+            "username": "user456",
+            "text": "Great post!"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "caption":"Tips for selecting soil and location for flower farming: \n\n Selection of site: The location of your flowerbed should be of the front view of your garden & not hidden somewhere in the background. Choose the sunniest spot in your garden as seasonal flowers do best in full sun. Flower beds look good when placed beside or in-between lawn. \n\n Soil: In general, flowering annuals thrive best in deep, well-drained & well-cultivated soil which is not acidic in nature. The beds should be worked up thoroughly to a depth of 30 cm before plantation when soil is not wet. \n\n Annuals & flowering season: In India, the flowering annual plants are classified according to the season when they are grown. Viz. Winter annuals, summer annuals, & rainy season annuals. Choose your flowerbed plants accordingly.",
+        "image": "https://cdn.shopify.com/s/files/1/0579/7924/0580/t/18/assets/shutterstock_210065338.jpgv1661860827?v=1661860895",
+        "likes": 10,
+        "comments": [
+          {
+            "id": 101,
+            "username": "user456",
+            "text": "Great post!"
+          }
+        ]
+      }
+    ]
+  }
   ],
 
   "ArticleData": [
