@@ -3,11 +3,13 @@ const server = jsonServer.create();
 const router = jsonServer.router("db.json");
 const middlewares = jsonServer.defaults();
 
-server.use(middlewares);
-server.use(router);
-//server.use(cors());
+const PORT = 5000;
 
-const PORT = 8080;
-server.listen(PORT, () => {
+server.use(middlewares);
+server.use(jsonServer.bodyParser);
+
+server.use(router);
+
+server.listen(5000, () => {
   console.log(`JSON Server is running on port ${PORT}`);
 });
