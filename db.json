@@ -42,9 +42,10 @@
       "userId":"13501fab-8d12-4286-8eec-54626974d1c7",
       "orderDate":"2023-09-05",
       "cartItems":[],
-      "totaAmount":
+      "totaAmount":1000
     }
   ],
+  "cart":[],
 
   "ArticleData": [
     {
