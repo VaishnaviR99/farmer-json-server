@@ -636,7 +636,8 @@
         "uri":"https://cdn.shopify.com/s/files/1/0579/7924/0580/t/18/assets/shutterstock_210065338.jpgv1661860827?v=1661860895"
       },
        "likedBy": ["abc","xyz","stv"],
-       "liked": false,
+       "likes": 10,
+      "liked": false,
         "comments": [
          {
            "id": 101,
@@ -655,7 +656,8 @@
           "caption": "Marigold is one of the most popular, annual, free flowering and short duration flowering crops. These flowers are known for their vibrant orange and yellow blooms, which add a cheerful touch to gardens and landscapes. Marigolds are native to Mexico and Central America but are now grown worldwide. In India, major marigold growing states are Tamil Nadu, Karnataka, Andhra Pradesh, Karnataka, Madhya Pradesh and Maharashtra. They are widely grown for their use in various religious and cultural ceremonies. In addition to their ornamental value, marigolds are also known for their medicinal and culinary uses. Commonly cultivated marigold species are African marigold (Tall) and French marigold (Dwarf). Marigold cultivation is an important source of income for many farmers in India.",
           "image":{"uri":"https://www.planetayurveda.com/pa-wp-images/marigold.jpg"} ,
            "likedBy": ["abc","xyz","stv"],
-       "liked": false,
+       "likes": 20,
+      "liked": false,
         "comments": [
          {
            "id": 101,
@@ -677,7 +679,9 @@
          "uri": "https://img.hobbyfarms.com/wp-content/uploads/2019/03/22190424/sugarbeets-vegetable-crops-KWS-Group-Flickr.jpg"
        },
        "caption": "Beautiful sunset at the beach 🌅",
-       "likes": 1024,
+       "likedBy": ["abc", "xyz", "stv"],
+       "likes": 120,
+       "liked": false,
        "comments": [
          {
            "id": 101,
@@ -703,6 +707,9 @@
        },
        "caption": "Exploring the mountains today ⛰️",
        "likes": 768,
+       "likedBy": ["abc", "xyz", "stv"],
+       
+       "liked": false,
        "comments": [
          {
            "id": 201,
@@ -728,6 +735,8 @@
        },
        "caption": "Trying out a new recipe 🍝",
        "likes": 563,
+       "likedBy": ["abc", "xyz", "stv"],
+       "liked": false,
        "comments": [
          {
            "id": 301,
