@@ -625,14 +625,16 @@
 
    "postData" : [
      {
-       "id": 1,
+       "id": 562,
        "userId": "13501fab-8d12-4286-8eec-54626974d1c7",
        "username": "Aviya",
        "profile": {
          "uri": "https://media.istockphoto.com/id/1300845620/vector/user-icon-flat-isolated-on-white-background-user-symbol-vector-illustration.jpg?s=612x612&w=0&k=20&c=yBeyba0hUkh14_jgv1OKqIH0CCSWU_4ckRkAoy2p73o="
        },
        "caption": "Tips for selecting soil and location for flower farming: \n\n Selection of site: The location of your flowerbed should be of the front view of your garden & not hidden somewhere in the background. Choose the sunniest spot in your garden as seasonal flowers do best in full sun. Flower beds look good when placed beside or in-between lawn. \n\n Soil: In general, flowering annuals thrive best in deep, well-drained & well-cultivated soil which is not acidic in nature. The beds should be worked up thoroughly to a depth of 30 cm before plantation when soil is not wet. \n\n Annuals & flowering season: In India, the flowering annual plants are classified according to the season when they are grown. Viz. Winter annuals, summer annuals, & rainy season annuals. Choose your flowerbed plants accordingly.",
-       "image": {"uri":"https://cdn.shopify.com/s/files/1/0579/7924/0580/t/18/assets/shutterstock_210065338.jpgv1661860827?v=1661860895"},
+       "image": {
+        "uri":"https://cdn.shopify.com/s/files/1/0579/7924/0580/t/18/assets/shutterstock_210065338.jpgv1661860827?v=1661860895"
+      },
        "likedBy": ["abc","xyz","stv"],
        "liked": false,
         "comments": [
@@ -644,14 +646,14 @@
         ]
      },
       {
-          "id": 2,
+          "id": 582,
           "userId":"13501fab-8d12-4286-8eec-54626974d1c7",
            "username": "Aviya",
        "profile": {
          "uri": "https://media.istockphoto.com/id/1300845620/vector/user-icon-flat-isolated-on-white-background-user-symbol-vector-illustration.jpg?s=612x612&w=0&k=20&c=yBeyba0hUkh14_jgv1OKqIH0CCSWU_4ckRkAoy2p73o="
        },
           "caption": "Marigold is one of the most popular, annual, free flowering and short duration flowering crops. These flowers are known for their vibrant orange and yellow blooms, which add a cheerful touch to gardens and landscapes. Marigolds are native to Mexico and Central America but are now grown worldwide. In India, major marigold growing states are Tamil Nadu, Karnataka, Andhra Pradesh, Karnataka, Madhya Pradesh and Maharashtra. They are widely grown for their use in various religious and cultural ceremonies. In addition to their ornamental value, marigolds are also known for their medicinal and culinary uses. Commonly cultivated marigold species are African marigold (Tall) and French marigold (Dwarf). Marigold cultivation is an important source of income for many farmers in India.",
-          "image": "https://www.planetayurveda.com/pa-wp-images/marigold.jpg",
+          "image":{"uri":"https://www.planetayurveda.com/pa-wp-images/marigold.jpg"} ,
            "likedBy": ["abc","xyz","stv"],
        "liked": false,
         "comments": [
@@ -696,8 +698,8 @@
        "profile": {
          "uri": "https://images.unsplash.com/photo-1609770653328-a4d1dd377970?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8aW5kaWFuJTIwbWFufGVufDB8fDB8fHww&w=1000&q=80"
        },
-       " image": {
-         "uri": "https://cdn.pixabay.com/photo/2016/09/21/04/46/barley-field-1684052_1280.jpg"
+       "image": {
+         "uri": "https://gumlet.assettype.com/newslaundry%2F2023-03%2F80af77e7-bc04-4f41-9ab6-7ac5fb622644%2FAI_5_.jpg?auto=format%2Ccompress&fit=max&format=webp&w=480&dpr=2.6"
        },
        "caption": "Exploring the mountains today ⛰️",
        "likes": 768,
