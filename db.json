@@ -818,21 +818,21 @@
     ],
 
     "products": {
-      "Herbicides": [
+        "Herbicides": [
         {
           "id": 1,
           "name": "Hitweed Herbicide",
           "price": 5640,
-          "image": "require('../assets/herbicides/hitweed.jpg')",
-          "variant": ["20ml", "30ml", "50ml"],
-          "prices": [500, 800, 1000],
+          "image": "https://cdn.shopify.com/s/files/1/0722/2059/products/1_17.webp?v=1674221918",
+          "variant": ["250ml", "500ml", "1 LTR"],
+          "prices": [1027, 1832, 3712],
           "description": "Hitweed is India's first highly seelctive herbicide for Cotton. It contains 'Pyrithiobac Sodium' as active ingredient.Hitweed is highly effective on several broad leaf weeds"
         },
         {
           "id": 2,
           "name": "Nivshakti Yodha (Bio For Thrips And Mites)",
           "price": 1500,
-          "image": "require('../assets/herbicides/nivshakti.jpg')",
+          "image": "https://cdn.shopify.com/s/files/1/0722/2059/products/NewProduct_1_a733bb89-b59a-4295-8373-8173a668cc4b.jpg?v=1681459910",
           "variant": ["20ml", "30ml", "50ml"],
           "prices": [500, 800, 1000],
           "description": "Yodha works excellent in controlling early stages of thrips and mites. It has given excellent result in chill and other vegetables crops."
@@ -841,7 +841,7 @@
           "id": 3,
           "name": "Foster Insecticide",
           "price": 368,
-          "image": "require('../assets/herbicides/foster.jpg')",
+          "image": "https://cdn.shopify.com/s/files/1/0722/2059/products/Artboard5_fb7555b3-0576-423c-9e0f-6bd1685aa51a.webp?v=1674221486",
           "variant": ["20ml", "30ml", "50ml"],
           "prices": [500, 800, 1000],
           "description": "Foster Insecticide belongs to new chemistry, benzoyl acetonitrile,the only miticide in this category. It is registered in more than 20 countries.It has long residual activity, hence longer duration of control."
@@ -850,7 +850,7 @@
           "id": 4,
           "name": "Silver Crop Glyfosil-54 Speed | Herbicide",
           "price": 1123,
-          "image": "require('../assets/herbicides/silver_crop.jpg')",
+          "image": "https://cdn.shopify.com/s/files/1/0722/2059/files/15.webp?v=1689162911",
           "variant": ["20ml", "30ml", "50ml"],
           "prices": [500, 800, 1000],
           "description": "Glyfosil-54 Speed is a systemic, non-selective, broad-spectrum, high-loaded Glyphosate formulation with IPA salt that ensures: ‘More Power – More Coverage’ with consistent control of all types of weeds under Non-Crop situations."
@@ -859,7 +859,7 @@
           "id": 5,
           "name": "SEMPRA HERBICIDE",
           "price": 222,
-          "image": "require('../assets/herbicides/sempra.jpg')",
+          "image": "https://cdn.shopify.com/s/files/1/0722/2059/products/4_bd3ad653-2283-4098-aa9f-1d13b22b22b8.webp?v=1674220720",
           "variant": ["20ml", "30ml", "50ml"],
           "prices": [500, 800, 1000],
           "description": "Sempra Herbicide is the first herbicide introduced in India by Dhanuka Agritech Ltd for effective control of Cyperus rotundus.It is a selective, systemic, post-emergence herbicide with WDG formulation for effective control of Cyperus rotundus from nuts in Sugarcane and Maize crop.Sempra Herbicide has strong systemic action i.e. moves in both ways through Xylem & Phloem."
@@ -868,7 +868,7 @@
           "id": 6,
           "name": "NOMINEE GOLD",
           "price": 500,
-          "image": "require('../assets/herbicides/Nominee-Gold.jpg')",
+          "image": "https://cdn.shopify.com/s/files/1/0722/2059/files/AGS-CP-985_1.webp?v=1689162628",
           "variant": ["20ml", "30ml", "50ml"],
           "prices": [500, 800, 1000],
           "description": "Nominee Gold is a Post Emergent, Broad Spectrum systemic herbicide for all types of Rice cultivation i.e. direct sown rice, rice nursery and transplanted rice."
@@ -877,7 +877,7 @@
           "id": 7,
           "name": "FERIO HERBICIDE",
           "price": 700,
-          "image": "require('../assets/herbicides/FERIO.jpg')",
+          "image": "https://cdn.shopify.com/s/files/1/0722/2059/products/1_12.webp?v=1674220632",
           "variant": ["20ml", "30ml", "50ml"],
           "prices": [500, 800, 1000],
           "description": "Ferio is a non-selective, post emergent herbicide used for the control of perennial weeds in plantation crops.Ferio has got broad-spectrum efficacy that can control broad leaf and grassy weeds.Ferio is contact herbicide, on be safe to the crop spray hood may be used to avoid spill of drift on crops.Ferio causes no harm to soil and water."
@@ -886,9 +886,9 @@
           "id": 8,
           "name": "SAATHI HERBICIDE",
           "price": 190,
-          "image": "require('../assets/herbicides/SAATHI.jpg')",
-          "variant": ["20ml", "30ml", "50ml"],
-          "prices": [500, 800, 1000],
+          "image": "https://cdn.shopify.com/s/files/1/0722/2059/files/SAATHI.jpg?v=1689162625",
+          "variant": ["80gms", "150gms", "500gms"],
+          "prices": [190, 300, 500],
           "description": "Saathi Herbicide is a highly versatile pre-emergence herbicide, it is both soil & foliage active to control rice weeds effectively from the beginning."
         }
       ],
