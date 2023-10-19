@@ -53,9 +53,7 @@
         
   ],
 
-  "orders":[
-   
-  ],
+  "orders":[],
   "cart":[],
 
   "ArticleData": [
@@ -768,7 +766,7 @@
        ]
      }
      
-   ]
+   ],
 
    "ProductsData": {
     "categories": [
