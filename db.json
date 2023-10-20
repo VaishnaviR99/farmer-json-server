@@ -933,7 +933,7 @@
           "id": 13,
           "name": "BACF XON (GROWTH PROMOTER)",
           "price": 1405,
-          "image": "require('../assets/growthpromoters/baxon.jpg')",
+          "image":  "https://www.bighaat.com/cdn/shop/products/fixqr5000_1800x1800.jpg?v=1608985972",
           "variant": ["20ml", "30ml", "50ml"],
           "prices": [500, 800, 1000],
           "description": "Technical: NPK Bacteria, PGPR, Sea weed, Humic, Fermentation media. Target Crops: All Crops. Target Pest : Improve crop tolerance for the abiotic stresses. Mode of Action: Soil and Foliar action"
