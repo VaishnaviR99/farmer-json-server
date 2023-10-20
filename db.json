@@ -773,22 +773,22 @@
       {
         "id": 1,
         "name": "Herbicides",
-        "image": "require('../assets/herbicides.jpg')"
+        "image": "../assets/herbicides.jpg"
       },
       {
         "id": 2,
         "name": "Growth Promoters",
-        "image": "require('../assets/growthpromo.png')"
+        "image": "../assets/growthpromo.png"
       },
       {
         "id": 3,
         "name": "Seeds",
-        "image": "require('../assets/seeds.jpg')"
+        "image": "../assets/seeds.jpg"
       },
       {
         "id": 4,
         "name": "Viricides",
-        "image": "require('../assets/viricides.png')"
+        "image": "../assets/viricides.png"
       },
       {
         "id": 5,
@@ -798,22 +798,22 @@
       {
         "id": 6,
         "name": "Nutrients",
-        "image": "require('../assets/nutrients.jpg')"
+        "image": "../assets/nutrients.jpg"
       },
       {
         "id": 7,
         "name": "Insecticides",
-        "image": "require('../assets/insecticides.jpg')"
+        "image": "../assets/insecticides.jpg"
       },
       {
         "id": 8,
         "name": "Pesticides",
-        "image": "require('../assets/pesticides.png')"
+        "image": "../assets/pesticides.png"
       },
       {
         "id": 9,
         "name": "Fungicides",
-        "image": "require('../assets/fungicides.png')"
+        "image": "../assets/fungicides.png"
       }
     ],
 
